@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kennethkimachia
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development on my own and in my first year doing Computer Science
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 🌱 I’m currently exploring the vast technologies related to web development
+- 💞️ I’m looking to collaborate on web development projects 
 
 <!---
 kennethkimachia/kennethkimachia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
