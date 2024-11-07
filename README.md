@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kennethkimachia
-- I am a CS student.
-- I am currently interested in Software Engineering. I may change my mind on this 🤷🏿‍♂️.
-- Currently exploring too many programming languages.
+- 👋 Hi there! I'm Kenneth Kimachia
+- 🎓 CS student by day, code ninja by night (or whenever deadlines approach).
+- 💻 Currently interested in Software Engineering
+- 🚀 On a mission to find the ultimate "Hello, World!"—suggestions welcome.
   
 
 <!---
